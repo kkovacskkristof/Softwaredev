@@ -3,3 +3,4 @@ tojas
 kenyer
 szalámi
 sajt
+kutyakaja
